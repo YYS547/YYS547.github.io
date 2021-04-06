@@ -31,7 +31,7 @@ what games work best, you will also need to show the
 **Note: You can try linking it with a gamepad and play it in
 gamepad mode, which would be great!**
 
-###Talking points:
+### Talking points:
 App top selling points need to be
 covered (from most important to less):
 1. No need to purchase games. (With only One
@@ -48,7 +48,7 @@ and mouse via Bluetooth or on-the-go cable. More
 than 100 customizable virtual keyboards are also
 available for you to use.
 
-###Requirements of the video:
+### Requirements of the video:
 1. At least **2 Talking points** should be mentioned in
 the video. (Please say it in your own style)
 2. At least 7-10 seconds overall of showing how to
@@ -83,7 +83,7 @@ style!):**
 [[Link 6]](https://www.tiktok.com/@im_siowei/video/6913881711436762370?lang=en)
 
 
-#FAQ
+# FAQ
 Q: How much time do I get to finish the video?
 Need to post within 1 week after reach agreement.  
 
