@@ -27,7 +27,6 @@ what games work best, you will also need to show the
 'borrow an account').
 3. Game playing of 5-10 mins.
 
-![NetBoom_Logo](https://github.com/YYS547/YYS547.github.io/blob/main/_asset/logo.png)
 <img src="https://github.com/YYS547/YYS547.github.io/blob/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
 **Note: You can try linking it with a gamepad and play it in
 gamepad mode, which would be great!**
