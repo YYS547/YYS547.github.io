@@ -75,7 +75,7 @@ style!):**
 
 - US (520 views): [[Link]](https://www.tiktok.com/@soymaulozano/video/6927515513438407941?is_from_webapp=v1&is_copy_url=1)
 
-- Romania(610k views): [[Link 1]](https://www.tiktok.com/@amasico/video/6934647499546250502?is_copy_url=1&is_from_webapp=v1)
+- Romania (610k views): [[Link 1]](https://www.tiktok.com/@amasico/video/6934647499546250502?is_copy_url=1&is_from_webapp=v1)
 [[Link 2]](https://www.tiktok.com/@irfan.khairi/video/6919363446643444994?sender_device=pc&sender_web_id=6890764300031739397&is_from_webapp=v2)
 [[Link 3]](https://www.tiktok.com/@denizbody/video/6920623461618502918?is_copy_url=1&is_from_webapp=v1)
 [[Link 4]](https://www.tiktok.com/@thammachad/video/6911614997504314626?lang=th-TH)
@@ -95,17 +95,17 @@ The video has to cover key features’ introduction, showing scrolling the
 home page, the game detail page, playing at least one game, or playing with
 a gamepad.
 
-<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
-<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
-<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
-<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
+<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/1.png" width = "200" height = "800" alt="" align=center />
+<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/2.png" width = "200" height = "800" alt="" align=center />
+<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/3.png" width = "200" height = "800" alt="" align=center />
+<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/4.png" width = "200" height = "800" alt="" align=center />
 
 - **What kind of video style might get more views?**  
 Showing your face, holding your phone, showing the process of opening the
 app, showing the screen… Must show how you play the games. Being
 straight forward.
 
-- **Do I need to put a download link in bio, description and comments?**
+- **Do I need to put a download link in bio, description and comments?**  
 Yes, please.
 
 - **Requirements for the description?**  
@@ -160,7 +160,7 @@ number, SWIFT code. Which takes a few days for international transferring.
 
 - **How long will I receive payment?**  
 It has to go through the company’s process, multi departments have to
-approve the payment application(we are not a small team), which might take
+approve the payment application (we are not a small team), which might take
 10 working days to finish it. But you will get paid! There are many videos out
 there already with no complain from any creators, so no worry about it!
 
@@ -170,8 +170,8 @@ And they have a lot other stuff to do, they do not only work for marketing
 team, so please be patient! It is just as slow as all the other companies.
 
 # Alert: Fraud views will not get paid
-For example, below situations(or similar):
-1. Engagement rate lower than 3%. Data from Tiktok Marketplace(If
+For example, below situations (or similar):
+1. Engagement rate lower than 3%. Data from Tiktok Marketplace (If
 available). Engagement rate: Calculated as the sum of likes, comments and
 shares divided by total views (Defined by Tiktok official)
 2. Likes/Views < 4%
