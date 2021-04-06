@@ -120,31 +120,64 @@ there is a small copy icon, click it and it will be copied).
 4. We will be giving you a free VIP subscription so that you can have full
 access to our service and play the games.
 
+# Trying the app
+- **Cannot play the game? Keep waiting in line?**  
+Do not wait longer than 5 minutes. Just quit the game and re-open, or try
+another game!
 
-```markdown
-Syntax highlighted code block
+- **Do not have a game account?**  
+We have “borrow an account” service, it is free, just choose it so that you
+can borrow an account and play freely. Please show this feature in the videos
+also.
 
-# Header 1
-## Header 2
-### Header 3
+- **It does not work?**  
+Be patient, cloud game is a new technology, requires high speed and stable
+network. Try using 5G or WIFI.
 
-- Bulleted
-- List
+- **About iOS version**  
+iOS version is just online, it is initial and not perfect. Please give it a few try
+and welcome to share your feedback! It is updated every week so some
+small bugs might be fixed very soon. Thank you for patient.
 
-1. Numbered
-2. List
+# Posting video
+Should I upload it to the Tiktok Marketplace or post it as a normal video?
+We recommend the Tiktok official marketplace, because it share the data
+and protect both side. But it takes a few days for the platform to review the
+video. And sometimes it just never pass the review… If cannot pass the
+review, you can try just post it as a normal video, and do share the analysis
+screenshots of your own.
 
-**Bold** and _Italic_ and `Code` text
+- **Do I need to share video analyse?**  
+Yes, please share screenshot of the video analysis, so that we can calculate
+and analyse the business.
 
-[Link](url) and ![Image](src)
-```
+# Payment
+- **How to pay?**  
+Paypal is preferred. It is the easiest and quickest way, only requires your
+name and PayPal account. It is instant transferring.
+By bank. Need to provide your name, bank name, bank account, IBAN
+number, SWIFT code. Which takes a few days for international transferring.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- **How long will I receive payment?**  
+It has to go through the company’s process, multi departments have to
+approve the payment application(we are not a small team), which might take
+10 working days to finish it. But you will get paid! There are many videos out
+there already with no complain from any creators, so no worry about it!
 
-### Jekyll Themes
+- **About payment date**  
+The company’s financial team only do payments on Wednesday and Friday.
+And they have a lot other stuff to do, they do not only work for marketing
+team, so please be patient! It is just as slow as all the other companies.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YYS547/YYS547.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Alert: Fraud views will not get paid
+For example, below situations(or similar):
+1. Engagement rate lower than 3%. Data from Tiktok Marketplace(If
+available). Engagement rate: Calculated as the sum of likes, comments and
+shares divided by total views (Defined by Tiktok official)
+2. Likes/Views < 4%
+3. Audience are from a total irrelevant country. For example, your audience
+are mainly from the US (data from tiktok marketplace), but the video’s views
+are 90% from Finland.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Contacting
+Working time 10 am to 7 pm, Monday to Friday. Based in UTC+8.
