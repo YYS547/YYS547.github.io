@@ -48,7 +48,7 @@ and mouse via Bluetooth or on-the-go cable. More
 than 100 customizable virtual keyboards are also
 available for you to use.
 
-### Requirements of the video:
+###Requirements of the video:
 1. At least **2 Talking points** should be mentioned in
 the video. (Please say it in your own style)
 2. At least 7-10 seconds overall of showing how to
@@ -62,7 +62,27 @@ hashtag: #NetBoom #(game name)
 for approval
 6. Comment in description: “Download NetBoom on
 the Google Play Store through my special link
-(link in bio).”
+(link in bio).
+
+**Sample video for guidance(no style limitation, you
+are more than welcome to keep it your own
+style!):**
+
+- Saudi Arabia (3.3M views): [[Link]](https://vm.tiktok.com/ZSJYmPKmh/)
+
+- Indonesia (350 views): [[Link 1]](https://www.tiktok.com/@vix_id/video/6943544050188356866?lang=en&is_copy_url=1&is_from_webapp=v1)
+[[Link 2]](https://vt.tiktok.com/ZSoyHUA7/)
+
+- US(520 views): [[Link]](https://www.tiktok.com/@soymaulozano/video/6927515513438407941?is_from_webapp=v1&is_copy_url=1)
+
+- Romania(610k views): [[Link 1]](https://www.tiktok.com/@amasico/video/6934647499546250502?is_copy_url=1&is_from_webapp=v1)
+[[Link 2]](https://www.tiktok.com/@irfan.khairi/video/6919363446643444994?sender_device=pc&sender_web_id=6890764300031739397&is_from_webapp=v2)
+[[Link 3]](https://www.tiktok.com/@denizbody/video/6920623461618502918?is_copy_url=1&is_from_webapp=v1)
+[[Link 4]](https://www.tiktok.com/@thammachad/video/6911614997504314626?lang=th-TH)
+[[Link 5]](https://www.tiktok.com/@karintv.1017/video/6906776535739518210?lang=en)
+[[Link 6]](https://www.tiktok.com/@im_siowei/video/6913881711436762370?lang=en)
+
+
 ```markdown
 Syntax highlighted code block
 
