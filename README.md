@@ -15,8 +15,7 @@ We will be giving you a free VIP subscription so that
 you can have full access to our service and play the
 games.
 
-Download NetBoom [here](https://play.google.com/store/apps/details?id=com.netboom.cloudgaming.vortex_stadia_shadow_GeForce)
-or search on Appstore: Netboom
+**Search _Netboom_ on Google play to download.**
 
 ### Materials and Clips:
 Record the whole screen, please follow the steps
