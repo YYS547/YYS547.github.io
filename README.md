@@ -116,7 +116,7 @@ Yes, please include a #netboom hashtag.
 2. Log in with your Google or Facebook account.
 3. Copy and send back your user id(you can find it on top of the profile page,
 there is a small copy icon, click it and it will be copied).  
-<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
+<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/5.jpg" width = "200" height = "300" alt="" align=center />
 4. We will be giving you a free VIP subscription so that you can have full
 access to our service and play the games.
 
