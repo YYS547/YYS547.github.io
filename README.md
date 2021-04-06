@@ -4,7 +4,7 @@ NetBoom is a cloud gaming service provider. It allows users to play PC games on 
  buy the game, we have our account library to share with users which means people can get access
  to 100+ games for free with only 1 subscription.
 
-## Video guideline:
+# Video guideline:
 ### For influencers’ video shooting:
 
 Download the app from Google Play/ Appstore
