@@ -73,7 +73,7 @@ style!):**
 - Indonesia (350 views): [[Link 1]](https://www.tiktok.com/@vix_id/video/6943544050188356866?lang=en&is_copy_url=1&is_from_webapp=v1)
 [[Link 2]](https://vt.tiktok.com/ZSoyHUA7/)
 
-- US(520 views): [[Link]](https://www.tiktok.com/@soymaulozano/video/6927515513438407941?is_from_webapp=v1&is_copy_url=1)
+- US (520 views): [[Link]](https://www.tiktok.com/@soymaulozano/video/6927515513438407941?is_from_webapp=v1&is_copy_url=1)
 
 - Romania(610k views): [[Link 1]](https://www.tiktok.com/@amasico/video/6934647499546250502?is_copy_url=1&is_from_webapp=v1)
 [[Link 2]](https://www.tiktok.com/@irfan.khairi/video/6919363446643444994?sender_device=pc&sender_web_id=6890764300031739397&is_from_webapp=v2)
@@ -84,7 +84,7 @@ style!):**
 
 
 # FAQ
-Q: How much time do I get to finish the video?
+- **How much time do I get to finish the video?**  
 Need to post within 1 week after reach agreement.  
 
 
