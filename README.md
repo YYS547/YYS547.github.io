@@ -4,12 +4,12 @@ NetBoom is a cloud gaming service provider. It allows users to play PC games on 
  buy the game, we have our account library to share with users which means people can get access
  to 100+ games for free with only 1 subscription.
 
-# Video guideline:
-### For influencers’ video shooting:
+# Video guideline
+## For influencers’ video shooting:
 
 Download the app from Google Play/ Appstore
 Log in with your Google or Facebook account
-Copy and send back your user id(you can find it on
+Copy and send back your user id (you can find it on
 top of the profile page, there is a small copy icon)
 We will be giving you a free VIP subscription so that
 you can have full access to our service and play the
@@ -18,7 +18,7 @@ games.
 <img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
 **Search _Netboom_ on Google play or AppStore to download.**
 
-### Materials and Clips:
+## Materials and Clips:
 Record the whole screen, please follow the steps
 on below:
 1. Scroll and show the whole Main page (From top to
@@ -64,7 +64,7 @@ for approval
 the Google Play Store through my special link
 (link in bio).
 
-**Sample video for guidance(no style limitation, you
+**Sample video for guidance (no style limitation, you
 are more than welcome to keep it your own
 style!):**
 
@@ -86,6 +86,39 @@ style!):**
 # FAQ
 - **How much time do I get to finish the video?**  
 Need to post within 1 week after reach agreement.  
+
+- **Do I need to send a draft video for reviewing?**  
+Yes, please send a draft video to the manager before posting. We usually will
+not ask you to make big changes, it is only to make sure it is in the right way.
+Which means:  
+The video has to cover key features’ introduction, showing scrolling the
+home page, the game detail page, playing at least one game, or playing with
+a gamepad.
+
+<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
+<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
+<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
+<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
+
+- **What kind of video style might get more views?**  
+Showing your face, holding your phone, showing the process of opening the
+app, showing the screen… Must show how you play the games. Being
+straight forward.
+
+- **Do I need to put a download link in bio, description and comments?**
+Yes, please.
+
+- **Requirements for the description?**  
+Yes, please include a #netboom hashtag.
+
+# Before making the video, how to get the VIP access?
+1. Download the app from Google play/ Appstore.
+2. Log in with your Google or Facebook account.
+3. Copy and send back your user id(you can find it on top of the profile page,
+there is a small copy icon, click it and it will be copied).  
+<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
+4. We will be giving you a free VIP subscription so that you can have full
+access to our service and play the games.
 
 
 ```markdown
