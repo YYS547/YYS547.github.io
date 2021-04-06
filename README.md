@@ -15,7 +15,8 @@ We will be giving you a free VIP subscription so that
 you can have full access to our service and play the
 games.
 
-**Search _Netboom_ on Google play to download.**
+<img src="https://github.com/YYS547/YYS547.github.io/blob/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
+**Search _Netboom_ on Google play or AppStore to download.**
 
 ### Materials and Clips:
 Record the whole screen, please follow the steps
@@ -27,7 +28,6 @@ what games work best, you will also need to show the
 'borrow an account').
 3. Game playing of 5-10 mins.
 
-<img src="https://github.com/YYS547/YYS547.github.io/blob/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
 **Note: You can try linking it with a gamepad and play it in
 gamepad mode, which would be great!**
 
