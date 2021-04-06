@@ -15,7 +15,7 @@ We will be giving you a free VIP subscription so that
 you can have full access to our service and play the
 games.
 
-<img src="https://github.com/YYS547/YYS547.github.io/blob/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
+<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/blob/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
 **Search _Netboom_ on Google play or AppStore to download.**
 
 ### Materials and Clips:
