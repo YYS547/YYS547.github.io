@@ -30,12 +30,12 @@ what games work best, you will also need to show the
 **Note: You can try linking it with a gamepad and play it in
 gamepad mode, which would be great!**
 
-### Talking points:
+## Talking points:
 App top selling points need to be
 covered (from most important to less):
 1. No need to purchase games. (With only One
-subscription, play 100+ games for free) e.x,
-Cyberpunk2077, GTAV, Fall guys etc.
+subscription, play 100+ games for free) e.g.,
+Cyberpunk 2077, GTA V, Fall guys, etc.
 2. Play popular PC games anytime and anywhere with
 NetBoom.
 3. One-click to play, enjoy 60FPS/1080P immediately.
@@ -47,7 +47,7 @@ and mouse via Bluetooth or on-the-go cable. More
 than 100 customizable virtual keyboards are also
 available for you to use.
 
-### Requirements of the video:
+## Requirements of the video:
 1. At least **2 Talking points** should be mentioned in
 the video. (Please say it in your own style)
 2. At least 7-10 seconds overall of showing how to
