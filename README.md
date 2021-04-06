@@ -83,6 +83,11 @@ style!):**
 [[Link 6]](https://www.tiktok.com/@im_siowei/video/6913881711436762370?lang=en)
 
 
+#FAQ
+Q: How much time do I get to finish the video?
+Need to post within 1 week after reach agreement.  
+
+
 ```markdown
 Syntax highlighted code block
 
