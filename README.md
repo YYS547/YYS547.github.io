@@ -95,10 +95,10 @@ The video has to cover key features’ introduction, showing scrolling the
 home page, the game detail page, playing at least one game, or playing with
 a gamepad.
 
-<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/1.jpg" width = "200" height = "800" alt="" align=center />
-<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/2.jpg" width = "200" height = "800" alt="" align=center />
-<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/3.jpg" width = "200" height = "800" alt="" align=center />
-<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/4.jpg" width = "200" height = "800" alt="" align=center />
+<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/1.jpg" width = "200" height = "300" alt="" align=center />
+<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/2.jpg" width = "200" height = "300" alt="" align=center />
+<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/3.jpg" width = "200" height = "300" alt="" align=center />
+<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/4.jpg" width = "200" height = "300" alt="" align=center />
 
 - **What kind of video style might get more views?**  
 Showing your face, holding your phone, showing the process of opening the
