@@ -14,7 +14,7 @@ We will be giving you a free VIP subscription so that
 you can have full access to our service and play the
 games.
 
-<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
+<img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
 **Search _Netboom_ on Google play or AppStore to download.**
 
 ## Materials and Clips:
@@ -94,10 +94,10 @@ The video has to cover key features’ introduction, showing scrolling the
 home page, the game detail page, playing at least one game, or playing with
 a gamepad.
 
-<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/1.jpg" width = "200" height = "300" alt="" align=center />
-<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/2.jpg" width = "200" height = "300" alt="" align=center />
-<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/3.jpg" width = "200" height = "300" alt="" align=center />
-<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/4.jpg" width = "200" height = "300" alt="" align=center />
+<img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/1.jpg" width = "200" height = "300" alt="" align=center />
+<img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/2.jpg" width = "200" height = "300" alt="" align=center />
+<img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/3.jpg" width = "200" height = "300" alt="" align=center />
+<img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/4.jpg" width = "200" height = "300" alt="" align=center />
 
 - **What kind of video style might get more views?**  
 Showing your face, holding your phone, showing the process of opening the
@@ -115,7 +115,7 @@ Yes, please include a #netboom hashtag.
 2. Log in with your Google or Facebook account.
 3. Copy and send back your user id(you can find it on top of the profile page,
 there is a small copy icon, click it and it will be copied).  
-<img src="https://raw.githubusercontent.com/YYS547/YYS547.github.io/main/_asset/5.jpg" width = "300" height = "500" alt="" align=center />
+<img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/5.jpg" width = "300" height = "500" alt="" align=center />
 4. We will be giving you a free VIP subscription so that you can have full
 access to our service and play the games.
 
