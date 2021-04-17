@@ -55,19 +55,13 @@ It can be any word you like, if you do not have any preference, just use “APRI
     - High Gaming Performance, Low Requirement 
     - No need to buy an expensive computer, you can play games on your phone!
     - You can also link a gamepad with your phone to get even better experience! 
-
 2. Showing scrolling the home page
-
-<img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/1.jpg" width = "200" height = "300" alt="" align=center />
-
+    <img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/1.jpg" width = "200" height = "300" alt="" align=center />
 3. Scrolling the game detail page
-
-<img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/2.jpg" width = "200" height = "300" alt="" align=center />
-
+    <img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/2.jpg" width = "200" height = "300" alt="" align=center />
 4. Showing playing at least one game (more than 10 seconds), or playing with a gamepad. Recommend games: Need for Speed, NBA 2K, Cyber Punk, GTA V… 
-
-<img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/3.jpg" width = "200" height = "300" alt="" align=center />
-<img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/4.jpg" width = "200" height = "300" alt="" align=center />
+    <img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/3.jpg" width = "200" height = "300" alt="" align=center />
+    <img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/4.jpg" width = "200" height = "300" alt="" align=center />
 
 **Note: You can try linking it with a gamepad and play it in
 gamepad mode, which would be great!**
