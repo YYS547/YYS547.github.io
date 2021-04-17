@@ -9,13 +9,13 @@ Features:
 - Tons of Games are available. More Games Added Every Month!
 - High Gaming Performance, Low Requirement.
 
-## Transform Your Phone into a High-end Gaming Console🖥 📲 
+### Transform Your Phone into a High-end Gaming Console🖥 📲 
 - Netboom is not an Xbox simulator, PlayStation5 simulator, or PC simulator.
 - Based on advanced game streaming & cloud gaming technology.
 - Hundreds of games run smoothly.
 - Dedicated virtual keyboard specifically designed for each game on mobile. Support play Anywhere, Anytime.
 
-## High Gaming Performance, Low Requirement⭐ 
+### High Gaming Performance, Low Requirement⭐ 
 - Up to Full HD (1080P)
 - 60 FPS 95% of games covered
 - Down to 10ms of latency
