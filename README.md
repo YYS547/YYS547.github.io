@@ -9,20 +9,20 @@ Features:
 - Tons of Games are available. More Games Added Every Month!
 - High Gaming Performance, Low Requirement.
 
-### Transform Your Phone into a High-end Gaming Console🖥 📲 
+**Transform Your Phone into a High-end Gaming Console🖥 📲**
 - Netboom is not an Xbox simulator, PlayStation5 simulator, or PC simulator.
 - Based on advanced game streaming & cloud gaming technology.
 - Hundreds of games run smoothly.
 - Dedicated virtual keyboard specifically designed for each game on mobile. Support play Anywhere, Anytime.
 
-### High Gaming Performance, Low Requirement⭐ 
+**High Gaming Performance, Low Requirement⭐**
 - Up to Full HD (1080P)
 - 60 FPS 95% of games covered
 - Down to 10ms of latency
 - As low as starting from 2M/bps
 - For even lower latency and higher quality gaming experience, we recommend a strong WiFi or 5G connection and a Bluetooth gamepad/controller.
 
-## SAVE yourself $1,000.00!💰 
+**SAVE yourself $1,000.00!💰**
 - The cheapest Alienware rig costs $1000. Just like GG STADIA, NV GeForce Now, MS xCloud, Netboom helps you save money and escape the requirement of expensive gaming setups!
 - With only one subscription, you can play all the games you want for free via Netboom’s free Account System.
 - If you enjoy one game a lot, we suggest you purchase a copy from the developers (for example through your steam account) so that you may enjoy those games as much and for as long as you’d like.
