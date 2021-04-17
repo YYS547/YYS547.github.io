@@ -1,8 +1,19 @@
 
 # INTRODUCTION
-NetBoom is a cloud gaming service provider. It allows users to play PC games on their mobile devices. Like you can play GTAV, cyberpunk, fall guys on mobile. Users won't even need to download or
- buy the game, we have our account library to share with users which means people can get access
- to 100+ games for free with only 1 subscription.
+Netboom is a cloud gaming platform bringing the best PC games to your Android and iOS devices.
+Features:  
+☑ Transform Your Phone into a High-end Gaming Console.  
+☑ Do not need expensive equipment to play PC games, saving $1000 for you.  
+☑ All games are free with subscription, no extra fees!  
+☑ Tons of Games are available. More Games Added Every Month!  
+☑ High Gaming Performance, Low Requirement.  
+
+## 🖥 📲 Transform Your Phone into a High-end Gaming Console
+- Netboom is not an Xbox simulator, PlayStation5 simulator, or PC simulator.
+- Based on advanced game streaming & cloud gaming technology.
+- Hundreds of games run smoothly.
+- Dedicated virtual keyboard specifically designed for each game on mobile. Support play Anywhere, Anytime.
+
 
 # Video guideline
 ## For influencers’ video shooting:
