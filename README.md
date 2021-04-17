@@ -30,11 +30,13 @@ Features:
 # Video guideline
 ## Main purpose: Subscription
 The app is free to download, but it is not free to play, need to subscription. After subscription, everything is free! No extra fee!
+
 <img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/logo.png" width = "50" height = "50" alt="" align=center />
 **Search _Netboom_ on Google play or AppStore to download.**
 
 ## Promotion code for new users
 It can be any word you like, if you do not have any preference, just use “APRIL”. With this code, when users first subscribe, they can receive 100 minutes extra gaming time!       
+
 <img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/6.jpg" width = "200" height = "300" alt="" align=center />
 <img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/7.jpg" width = "200" height = "300" alt="" align=center />
 
@@ -42,24 +44,28 @@ It can be any word you like, if you do not have any preference, just use “APRI
 **Warning: (⚠If not meeting the requirements or post without confirmation, you will not receive payment.)**
 ### Draft video-Please send a draft video to the manager before posting📹
 1. Introduce the app’s key features; Encourage subscription, by speaking or subtitles.  
+<img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/8.jpg" width = "200" height = "300" alt="" align=center />
 
-Sample Script:
+    Sample Script:
 
-Netboom is a cloud gaming platform bringing the best PC games to your Android and iOS devices.
-- All games are free with a subscription. No need to purchase all the games. 
-- Play Cyberpunk 2077, GTA V, Fall guys…One-click to play on your phone with Net-boom
-- Transform Your Phone into a High-end Gaming Console
-- High Gaming Performance, Low Requirement 
-- No need to buy an expensive computer, you can play games on your phone!
-- You can also link a gamepad with your phone to get even better experience! 
+    Netboom is a cloud gaming platform bringing the best PC games to your Android and iOS devices.
+    - All games are free with a subscription. No need to purchase all the games. 
+    - Play Cyberpunk 2077, GTA V, Fall guys…One-click to play on your phone with Net-boom
+    - Transform Your Phone into a High-end Gaming Console
+    - High Gaming Performance, Low Requirement 
+    - No need to buy an expensive computer, you can play games on your phone!
+    - You can also link a gamepad with your phone to get even better experience! 
 
 2. Showing scrolling the home page
+
 <img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/1.jpg" width = "200" height = "300" alt="" align=center />
 
 3. Scrolling the game detail page
+
 <img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/2.jpg" width = "200" height = "300" alt="" align=center />
 
 4. Showing playing at least one game (more than 10 seconds), or playing with a gamepad. Recommend games: Need for Speed, NBA 2K, Cyber Punk, GTA V… 
+
 <img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/3.jpg" width = "200" height = "300" alt="" align=center />
 <img src="https://raw.githubusercontent.com/yushang547/yushang547.github.io/main/_asset/4.jpg" width = "200" height = "300" alt="" align=center />
 
