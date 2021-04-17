@@ -72,56 +72,13 @@ It can be any word you like, if you do not have any preference, just use “APRI
 **Note: You can try linking it with a gamepad and play it in
 gamepad mode, which would be great!**
 
-## Talking points:
-App top selling points need to be
-covered (from most important to less):
-1. No need to purchase games. (With only One
-subscription, play 100+ games for free) e.g.,
-Cyberpunk 2077, GTA V, Fall guys, etc.
-2. Play popular PC games anytime and anywhere with
-NetBoom.
-3. One-click to play, enjoy 60FPS/1080P immediately.
-4. No need to buy a high-end gaming PC or
-controllers, play AAA games just with your phone
-using 4G/5G or WIFI network.
-5. You can directly connect a controller or keyboard
-and mouse via Bluetooth or on-the-go cable. More
-than 100 customizable virtual keyboards are also
-available for you to use.
+## Sample Video⭐️
 
-## Requirements of the video:
-1. At least **2 Talking points** should be mentioned in
-the video. (Please say it in your own style)
-2. At least 7-10 seconds overall of showing how to
-use the app + game playing (In your personal
-style, please keep fun and entertaining.)
-3. Mention download NetBoom on google play store
-or through the link in my Bio.
-4. The video title should include “NetBoom”. Video
-hashtag: #NetBoom #(game name)
-5. Please provide video script together with the draft
-for approval
-6. Comment in description: “Download NetBoom on
-the Google Play Store through my special link
-(link in bio).
+- Saudi Arabia: [[Video 1]](https://www.tiktok.com/@moh_aloudah/video/6942127734806154498) [[Video 2]](https://www.tiktok.com/@zaidsalameh77/video/6949510217793129730?)
 
-**Sample video for guidance (no style limitation, you
-are more than welcome to keep it your own
-style!):**
+- Indonesia: [[Video 1]](https://www.tiktok.com/@vix_id/video/6943544050188356866?)
 
-- Saudi Arabia (3.3M views): [[Link]](https://vm.tiktok.com/ZSJYmPKmh/)
-
-- Indonesia (350 views): [[Link 1]](https://www.tiktok.com/@vix_id/video/6943544050188356866?lang=en&is_copy_url=1&is_from_webapp=v1)
-[[Link 2]](https://vt.tiktok.com/ZSoyHUA7/)
-
-- US (520 views): [[Link]](https://www.tiktok.com/@soymaulozano/video/6927515513438407941?is_from_webapp=v1&is_copy_url=1)
-
-- Romania (610k views): [[Link 1]](https://www.tiktok.com/@amasico/video/6934647499546250502?is_copy_url=1&is_from_webapp=v1)
-[[Link 2]](https://www.tiktok.com/@irfan.khairi/video/6919363446643444994?sender_device=pc&sender_web_id=6890764300031739397&is_from_webapp=v2)
-[[Link 3]](https://www.tiktok.com/@denizbody/video/6920623461618502918?is_copy_url=1&is_from_webapp=v1)
-[[Link 4]](https://www.tiktok.com/@thammachad/video/6911614997504314626?lang=th-TH)
-[[Link 5]](https://www.tiktok.com/@karintv.1017/video/6906776535739518210?lang=en)
-[[Link 6]](https://www.tiktok.com/@im_siowei/video/6913881711436762370?lang=en)
+- Romania: [[Video 1]](https://www.tiktok.com/@amasico/video/6934647499546250502?)
 
 
 # FAQ
